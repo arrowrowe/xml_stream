@@ -1,4 +1,4 @@
 xml_stream
 ==========
 
-Python XML parser for stream.
+A Python XML parser, a generator reading from stream.
